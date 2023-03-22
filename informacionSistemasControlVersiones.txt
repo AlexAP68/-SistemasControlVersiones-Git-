@@ -1,0 +1,19 @@
+Un sistema de control de versiones (VCS, por sus siglas en inglés) es una herramienta que permite gestionar el cambio y la evolución de los archivos y documentos en un proyecto, permitiendo a los equipos de trabajo trabajar en conjunto de manera coordinada.
+
+Entre las funciones principales que proporciona un VCS se incluyen:
+
+Control de versiones: Permite mantener un historial de cambios y versiones de los archivos y documentos, lo que permite recuperar versiones antiguas o comparar diferentes versiones para ver cómo han evolucionado.
+
+Control de cambios: Facilita la identificación y el seguimiento de los cambios realizados en los archivos y documentos, incluyendo quién realizó el cambio, cuándo se realizó y qué cambios se realizaron.
+
+Gestión de ramas: Permite a los equipos trabajar en diferentes ramas de un proyecto de manera independiente, lo que facilita la colaboración en equipo y la experimentación sin afectar la versión principal.
+
+Algunos de los sistemas de control de versiones más populares son:
+
+Git: Es un sistema de control de versiones distribuido y gratuito, que permite gestionar proyectos de cualquier tamaño y complejidad. Git es ampliamente utilizado en la industria y en proyectos de código abierto.
+
+SVN: Es un sistema de control de versiones centralizado, que se enfoca en mantener una copia centralizada de todos los archivos y documentos del proyecto. A diferencia de Git, SVN no es distribuido.
+
+Mercurial: Es otro sistema de control de versiones distribuido, que es similar a Git en muchas formas. Aunque no es tan popular como Git, es una opción viable para proyectos más pequeños o equipos que prefieren una interfaz más sencilla.
+
+En resumen, los sistemas de control de versiones son herramientas críticas para la gestión de proyectos colaborativos y permiten a los equipos trabajar de manera más eficiente y efectiva.
